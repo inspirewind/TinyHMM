@@ -1,0 +1,5 @@
+
+src/demo.py
+.vscode/
+data/
+*.pyc
